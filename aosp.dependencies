@@ -4,8 +4,10 @@
     "target_path": "device/xiaomi/msm8996-common"
   },
   {
-    "repository":  "proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi"
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "lineage-15.1"
   },
   {
     "remote":      "los",
