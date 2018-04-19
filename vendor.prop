@@ -1,3 +1,7 @@
+# Bluetooth
+ro.bluetooth.wipower=true
+ro.bluetooth.emb_wp_mode=true
+
 # Camera
 persist.camera.HAL3.enabled=1
 
